@@ -1,0 +1,38 @@
+
+
+.label {
+  font-size: 18px;
+  color: #6c757d;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.input {
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid #d0d4d8;
+  padding: 10px 5px;
+  font-size: 18px;
+  outline: none;
+  resize: none;
+}
+
+.input:focus {
+  border-bottom: 2px solid #1abc9c;
+}
+
+.btnSend {
+  background-color: #1abc9c;
+  color: white;
+  padding: 12px 30px;
+  border-radius: 10px;
+  font-size: 18px;
+  border: none;
+  margin-top: 20px;
+  transition: 0.3s;
+}
+
+.btnSend:hover {
+  background-color: #159a80;
+}
+
